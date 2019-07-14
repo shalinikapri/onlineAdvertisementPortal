@@ -1,0 +1,18 @@
+SMAP
+new_005fcategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 new_category.jsp
+new_category.jsp
++ 1 menubar.jsp
+menubar.jsp
+*L
+1,2:49
+4,19:52
+22,10:71
+5#1,33:81
+31#0,2:113
+33,2:115,3
+35,26:121
+*E

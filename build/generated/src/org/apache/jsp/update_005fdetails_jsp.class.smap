@@ -1,0 +1,17 @@
+SMAP
+update_005fdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 update_details.jsp
+update_details.jsp
++ 1 menubar.jsp
+menubar.jsp
+*L
+5,23:49
+27,8:72
+5#1,35:80
+34#0,2:114
+36,2:116,3
+38,37:122
+*E
